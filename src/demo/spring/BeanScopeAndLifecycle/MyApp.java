@@ -21,6 +21,7 @@ public class MyApp {
 		 System.out.println("the location memory of student1 class is"+student1);
 		 System.out.println("the location memory of Prototype class is"+prototype);
 		 System.out.println("the location memory of Prototype 1  class is"+prototype1);
+		 System.out.println("the location memory of Prototype 1  class is"+prototype1);
 
 
 
